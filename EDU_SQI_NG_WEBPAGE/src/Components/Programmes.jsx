@@ -64,8 +64,8 @@ const Programmes = () => {
             <div className="card-body">
               <h5 className="card-title" style={titleStyle}>Professional Diploma Certificate</h5>
               <p className="card-text" style={descStyle}>
-                The Professional Certificate Program is 1 year practical
-                training with wide range of edge-cutting IT certification
+                The Professional Certificate Program is a 1 year practical
+                training with a wide range of edge-cutting IT certification
                 courses offered in SQI College of ICT to people who want to
                 advance their career.
               </p>
